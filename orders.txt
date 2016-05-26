@@ -1,0 +1,28 @@
+
+[{
+  orderDate: new Date("2015-05-05"),
+  orderTotal: 50,
+  lineItems: [
+    {unitPrice: 10,
+    quantity: 5,
+  productName: "sunglasses"}
+  ]
+},
+{
+orderDate: new Date("2015-05-10"),
+orderTotal: 200,
+lineItems: [
+{unitPrice: 100,
+quantity: 2,
+productName: "shoes"}
+]
+},
+{
+orderDate: new Date("2015-05-15"),
+orderTotal: 250,
+lineItems: [
+{unitPrice: 250,
+quantity: 1,
+productName: "dress"}
+]
+}]
